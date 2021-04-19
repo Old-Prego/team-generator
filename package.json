@@ -1,0 +1,11 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Everything Operational\");"
+  },
+  "author": "",
+  "license": "ISC"
+}
